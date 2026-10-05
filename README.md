@@ -9,7 +9,7 @@ Set the confirmed investor-contact address in `dist/config.js` (`contactEmail`).
 ## Content and assets
 
 - Technical metrics come from the owner's brief dated October 5, 2026; they are attributed to the founder and have not been independently audited in this task.
-- Revenue, MRR, GMV, customer counts, asking price, transaction terms and trademark registration remain undisclosed/unconfirmed, not invented.
+- The owner confirmed full IP acquisition and a pre-revenue stage without commercial traction. Asking price is not yet determined; detailed transfer terms and trademark registration remain unconfirmed.
 - The real logo is copied from `APP/my-app/assets/images/kavclass.png`.
 - `APP/exemples/feed1.png` through `feed4.png` depict Instagram, X, Facebook and TikTok. They are not KAV CLASS screenshots and are intentionally excluded. Capture anonymized SELF and INSTITUTION screens before adding a real product gallery.
 - The hero is an architecture diagram, not a simulated product screenshot.
@@ -18,4 +18,4 @@ Set the confirmed investor-contact address in `dist/config.js` (`contactEmail`).
 
 ## Review before public release
 
-Confirm contact address, deal structure, rights/transfer scope, trademark status and any commercial figures you want disclosed. Capture actual SELF and INSTITUTION screens. The current presentation does not assert competitor exclusivity or financial traction.
+Contact is configured as claudiojrdesenvolvedor@gmail.com. Confirm detailed rights/transfer scope, trademark status and asking price before public release. Capture actual SELF and INSTITUTION screens. The current presentation does not assert competitor exclusivity or financial traction.
