@@ -2,6 +2,10 @@
 
 Static, bilingual (PT/EN) investor presentation. No build or package installation is required. Deploy the contents of `dist/` to a static web host, or preview with `python3 -m http.server 8080 --directory dist` from this directory.
 
+## Vercel
+
+The repository includes `vercel.json`, which rewrites the site root and its static assets to `dist/`. This lets Vercel deploy the repository directly without requiring a custom Root Directory or Output Directory setting.
+
 ## Contact
 
 Set the confirmed investor-contact address in `dist/config.js` (`contactEmail`). When configured, the form prepares a `mailto:` message for review and sending in the visitor's mail application. It does not claim delivery or collect/store data. Without an address, the form clearly offers a local text download instead. A backend or form provider is required for direct submissions and delivery tracking.
